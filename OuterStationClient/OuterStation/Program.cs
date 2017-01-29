@@ -23,11 +23,11 @@ namespace OuterStation
 	static class Program
     #endif
     {
-		private static Game1 game;
+		private static Main game;
 
 		internal static void RunGame ()
 		{
-			game = new Game1 ();
+			game = new Main ();
 			game.Run ();
 			#if !__IOS__  && !__TVOS__
 			game.Dispose ();
