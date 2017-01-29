@@ -1,0 +1,2 @@
+# outerstation
+MonoDevelop + MonoGame game
