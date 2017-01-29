@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OuterStation", "OuterStation.csproj", "{7DCBB860-A1C3-4329-897C-496BB2A01439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCBB860-A1C3-4329-897C-496BB2A01439}.Debug|x86.ActiveCfg = Debug|x86
+		{7DCBB860-A1C3-4329-897C-496BB2A01439}.Debug|x86.Build.0 = Debug|x86
+		{7DCBB860-A1C3-4329-897C-496BB2A01439}.Release|x86.ActiveCfg = Release|x86
+		{7DCBB860-A1C3-4329-897C-496BB2A01439}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
